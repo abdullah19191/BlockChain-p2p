@@ -140,5 +140,5 @@ function Transactions(from,to,amount) {
 }
 
 module.exports = { 
-   validateChain ,Transactions,block
+   validateChain ,Transactions,addBlock
   } 
